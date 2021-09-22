@@ -1,0 +1,16 @@
+{
+  "name": "jsontoexcelscript",
+  "version": "1.0.0",
+  "description": "Node script. Export json to excel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Efstathopoulos",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "node-fetch": "^3.0.0"
+  }
+}
